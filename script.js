@@ -1,4 +1,1 @@
-function adicionar() {
-  alert("funcionou");
-}
-}
+alert("JS carregou");
